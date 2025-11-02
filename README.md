@@ -3,11 +3,11 @@
 A functional social media post builder and feed prototype built with React, demonstrating core social media application development principles.
 
 ## 📋 Project Overview
-**Module**: CIT305 - Social Media Applications  
-**Project Type**: Mini Project 
-**Degree Program**: Bachelor of Applied Information Technology (BAIT)
-**University**: Sri Lanka Technology Campus (SLTC)
-**Technology Stack**: React, Vite, HTML5, CSS3, and JavaScript
+- **Module**: CIT305 - Social Media Applications  
+- **Project Type**: Mini Project 
+- **Technology Stack**: React, Vite, HTML5, CSS3, and JavaScript
+- **Degree Program**: Bachelor of Applied Information Technology (BAIT)
+- **University**: Sri Lanka Technology Campus (SLTC)
 
 ---
 
