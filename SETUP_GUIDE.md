@@ -21,7 +21,7 @@ npm install
 This will install:
 - React 19.2
 - React DOM 19.2
-- Vite 5.1 (build tool)
+- Vite 7.1 (build tool)
 - All required development dependencies
 
 ### 3. Start Development Server
@@ -33,15 +33,18 @@ npm run dev
 Expected output:
 
 ```
-VITE v5.0.8  ready in 500 ms
+  VITE v7.1.12  ready in 1765 ms
 
-➜  Local:   http://localhost:5173/
-➜  Network: use --host to expose
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
 ```
 
 ### 4. Open in Browser
 - Click the link or navigate to: `http://localhost:5173`
 - The app will automatically reload when you make changes
+
+---
 
 ## 🎯 Testing the Application
 
@@ -68,12 +71,16 @@ VITE v5.0.8  ready in 500 ms
 - Check tablet view (768px - 968px)
 - Check desktop view (> 968px)
 
+---
+
 ## 📱 Sample Image URLs for Testing
 
 Use these URLs in the Image URL field:
 - `https://picsum.photos/600/400`
 - `https://picsum.photos/800/600`
 - `https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800`
+
+---
 
 ## 🐛 Troubleshooting
 
@@ -90,6 +97,7 @@ Clear cache and retry:
 
 ```bash
 npm cache clean --force
+
 npm install
 ```
 
@@ -112,6 +120,8 @@ Preview production build:
 npm run preview
 ```
 
+---
+
 ## ✅ Assignment Checklist
 
 - [ ] Post Creator Form works (text + image URL)
@@ -126,19 +136,23 @@ npm run preview
 - [ ] Responsive on mobile, tablet, desktop
 - [ ] Clean, modern UI design
 
+---
+
 ## 🎓 Demonstrating Learning Outcomes
 
 ### LO1: Front-end Technologies
-**Show**: React components (`PostCreator.jsx`, `SocialPost.jsx`, `App.jsx`)
-**Explain**: How JSX, props, and component composition work
+- **Show**: React components (`PostCreator.jsx`, `Comment.jsx`, `SocialPost.jsx`, `App.jsx`)
+  - **Explain**: How JSX, props, and component composition work
 
 ### LO2: Design Principles
-**Show**: Reusable `SocialPost` component used for all posts
-**Explain**: Component accepts props, maintains consistent design pattern
+- **Show**: Reusable `SocialPost` component used for all posts
+  - **Explain**: Component accepts props, maintains consistent design pattern
 
 ### LO3: Platform Independence
-**Show**: Browser-based app, API integration in `App.jsx` (lines with `fetch`)
-**Explain**: Runs on any device with browser, fetches data from external API
+- **Show**: Browser-based app, API integration in `App.jsx` (lines with `fetch`)
+  - **Explain**: Runs on any device with browser, fetches data from external API
+
+---
 
 ## 📸 Features to Highlight in Presentation
 
@@ -149,6 +163,8 @@ npm run preview
 5. **Responsive Design**: Show on different screen sizes
 6. **API Integration**: Show network tab with API call
 7. **State Management**: Explain useState and useEffect in code
+
+---
 
 ## 💡 Pro Tips
 
@@ -164,5 +180,6 @@ npm run preview
 - Review component files for inline comments
 - All requirements from project brief are implemented
 
-Good luck for the presentation! 🌟
+Thank You, Happy Coding! 🌟
 
+---
