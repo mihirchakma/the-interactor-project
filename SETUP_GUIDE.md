@@ -106,6 +106,8 @@ npm install
 - JSONPlaceholder API might be temporarily down
 - Your created posts will still work
 
+---
+
 ## 📦 Build for Production
 
 When ready to deploy:
