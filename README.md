@@ -156,7 +156,7 @@ The Interactor/
 1. App component maintains posts array in state
 2. PostCreator submits new post data to App
 3. App adds new post to beginning of array
-4. Posts are rendered using ```*map()*``` over SocialPost components
+4. Posts are rendered using ```map()``` over SocialPost components
 5. Like interactions update specific post in state array
 
 ---
