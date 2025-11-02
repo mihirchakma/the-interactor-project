@@ -12,7 +12,7 @@ A functional social media post builder and feed prototype built with React, demo
 ---
 
 ## 👥 Team Members
-- 22UG3-0235 - Mihir Chakma (Group Leader)
+- 22UG3-0235 - Mihir Chakma (**Group Leader**)
 - 22UG3-0570 - Thavalampitiye Dhammika
 - 22UG3-0912 - Pandigamage Saleela Kaushal
 - 22UG3-0108 - Ruchira Vishvajith Dharma Shri
