@@ -107,8 +107,8 @@ The optimized build will be in the `dist/` folder.
 The Interactor/
 ├── src/
 │   ├── components/
-│   │   ├── Comment.css
 │   │   ├── Comment.jsx
+│   │   ├── Comment.css
 │   │   ├── PostCreator.jsx      # Task 1: Post creation form
 │   │   ├── PostCreator.css
 │   │   ├── SocialPost.jsx       # Task 2: Reusable post component
