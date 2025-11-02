@@ -147,7 +147,7 @@ The Interactor/
 
 ### API Integration
 
-- **API**: JSONPlaceholder (https://jsonplaceholder.typicode.com/posts)
+- **API**: JSONPlaceholder (https://dummyjson.com/posts)
 - **Method**: fetch API
 - **Data**: First 10 posts transformed to match component structure
 
@@ -156,7 +156,7 @@ The Interactor/
 1. App component maintains posts array in state
 2. PostCreator submits new post data to App
 3. App adds new post to beginning of array
-4. Posts are rendered using map() over SocialPost components
+4. Posts are rendered using ```*map()*``` over SocialPost components
 5. Like interactions update specific post in state array
 
 ---
@@ -216,8 +216,8 @@ The Interactor/
 ## 👨‍💻 Development
 
 Built with modern web technologies:
-- **React 18.2** - Component library
-- **Vite 5.0** - Build tool and dev server
+- **React 19.2** - Component library
+- **Vite 7.1** - Build tool and dev server
 - **CSS3** - Styling with animations
 - **JSONPlaceholder** - Mock API for testing
 
