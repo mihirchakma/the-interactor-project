@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState } from 'react'
 import Comment from './Comment'
 import './SocialPost.css'
@@ -265,3 +266,5 @@ function SocialPost({ post, onLike }) {
 
 export default SocialPost
 
+=======
+>>>>>>> 747956f7d4efedc1082142a17c08b1f8cf5036f2
