@@ -20,7 +20,8 @@ function SocialPost({ post, onLike }) {
     const date = new Date(timestamp)
     const now = new Date()
     const diffInSeconds = Math.floor((now - date) / 1000)
-
+    
+    
     if (diffInSeconds < 60) return 'Just now'
     if (diffInSeconds < 3600) return `${Math.floor(diffInSeconds / 60)}m ago`
     if (diffInSeconds < 86400) return `${Math.floor(diffInSeconds / 3600)}h ago`
@@ -79,6 +80,7 @@ function SocialPost({ post, onLike }) {
     } catch (error) {
       console.error('Error fetching comments:', error)
       setCommentsLoading(false)
+
       // Show mock comment if API fails
       setComments([
         {
@@ -92,6 +94,7 @@ function SocialPost({ post, onLike }) {
     }
   }
 
+  
   // Handle adding a new comment
   const handleAddComment = async (e) => {
     e.preventDefault()
