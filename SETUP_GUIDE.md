@@ -21,11 +21,7 @@ npm install
 This will install:
 - React 19.2
 - React DOM 19.2
-<<<<<<< HEAD
-- Vite 5.1 (build tool)
-=======
 - Vite 7.1 (build tool)
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 - All required development dependencies
 
 ### 3. Start Development Server
@@ -37,29 +33,19 @@ npm run dev
 Expected output:
 
 ```
-<<<<<<< HEAD
-VITE v5.0.8  ready in 500 ms
-
-➜  Local:   http://localhost:5173/
-➜  Network: use --host to expose
-=======
   VITE v7.1.12  ready in 1765 ms
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 ```
 
 ### 4. Open in Browser
 - Click the link or navigate to: `http://localhost:5173`
 - The app will automatically reload when you make changes
 
-<<<<<<< HEAD
-=======
 ---
 
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 ## 🎯 Testing the Application
 
 ### Test Post Creation (Task 1)
@@ -85,11 +71,8 @@ VITE v5.0.8  ready in 500 ms
 - Check tablet view (768px - 968px)
 - Check desktop view (> 968px)
 
-<<<<<<< HEAD
-=======
 ---
 
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 ## 📱 Sample Image URLs for Testing
 
 Use these URLs in the Image URL field:
@@ -97,11 +80,8 @@ Use these URLs in the Image URL field:
 - `https://picsum.photos/800/600`
 - `https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800`
 
-<<<<<<< HEAD
-=======
 ---
 
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 ## 🐛 Troubleshooting
 
 ### Port Already in Use
@@ -117,10 +97,7 @@ Clear cache and retry:
 
 ```bash
 npm cache clean --force
-<<<<<<< HEAD
-=======
 
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 npm install
 ```
 
@@ -129,11 +106,8 @@ npm install
 - JSONPlaceholder API might be temporarily down
 - Your created posts will still work
 
-<<<<<<< HEAD
-=======
 ---
 
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 ## 📦 Build for Production
 
 When ready to deploy:
@@ -148,11 +122,8 @@ Preview production build:
 npm run preview
 ```
 
-<<<<<<< HEAD
-=======
 ---
 
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 ## ✅ Assignment Checklist
 
 - [ ] Post Creator Form works (text + image URL)
@@ -167,21 +138,6 @@ npm run preview
 - [ ] Responsive on mobile, tablet, desktop
 - [ ] Clean, modern UI design
 
-<<<<<<< HEAD
-## 🎓 Demonstrating Learning Outcomes
-
-### LO1: Front-end Technologies
-**Show**: React components (`PostCreator.jsx`, `SocialPost.jsx`, `App.jsx`)
-**Explain**: How JSX, props, and component composition work
-
-### LO2: Design Principles
-**Show**: Reusable `SocialPost` component used for all posts
-**Explain**: Component accepts props, maintains consistent design pattern
-
-### LO3: Platform Independence
-**Show**: Browser-based app, API integration in `App.jsx` (lines with `fetch`)
-**Explain**: Runs on any device with browser, fetches data from external API
-=======
 ---
 
 ## 🎓 Demonstrating Learning Outcomes
@@ -199,7 +155,6 @@ npm run preview
   - **Explain**: Runs on any device with browser, fetches data from external API
 
 ---
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 
 ## 📸 Features to Highlight in Presentation
 
@@ -211,11 +166,8 @@ npm run preview
 6. **API Integration**: Show network tab with API call
 7. **State Management**: Explain useState and useEffect in code
 
-<<<<<<< HEAD
-=======
 ---
 
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 ## 💡 Pro Tips
 
 - Use DevTools (F12) to show React components
@@ -230,11 +182,6 @@ npm run preview
 - Review component files for inline comments
 - All requirements from project brief are implemented
 
-<<<<<<< HEAD
-Good luck for the presentation! 🌟
-
-=======
 Thank You, Happy Coding! 🌟
 
 ---
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248

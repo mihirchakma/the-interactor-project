@@ -4,10 +4,6 @@ import './Comment.css'
  * Comment Component
  * Displays individual comments with user info and content
  */
-<<<<<<< HEAD
-
-=======
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 function Comment({ comment }) {
   // Format timestamp to readable format
   const formatTimestamp = (timestamp) => {
