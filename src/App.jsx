@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState, useEffect } from 'react'
 import PostCreator from './components/PostCreator'
 import SocialPost from './components/SocialPost'
@@ -154,3 +155,5 @@ function App() {
 
 export default App
 
+=======
+>>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
