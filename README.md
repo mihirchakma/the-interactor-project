@@ -3,28 +3,16 @@
 A functional social media post builder and feed prototype built with React, demonstrating core social media application development principles.
 
 ## 📋 Project Overview
-<<<<<<< HEAD
-**Module**: CIT305 - Social Media Applications  
-**Project Type**: Mini Project 
-**Degree Program**: Bachelor of Applied Information Technology (BAIT)
-**University**: Sri Lanka Technology Campus (SLTC)
-**Technology Stack**: React, Vite, HTML5, CSS3, and JavaScript
-=======
 - **Module**: CIT305 - Social Media Applications  
 - **Project Type**: Mini Project 
 - **Technology Stack**: React, Vite, HTML5, CSS3, and JavaScript
 - **Degree Program**: Bachelor of Applied Information Technology (BAIT)
 - **University**: Sri Lanka Technology Campus (SLTC)
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 
 ---
 
 ## 👥 Team Members
-<<<<<<< HEAD
-- 22UG3-0235 - Mihir Chakma (Group Leader)
-=======
 - 22UG3-0235 - Mihir Chakma (**Group Leader**)
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 - 22UG3-0570 - Thavalampitiye Dhammika
 - 22UG3-0912 - Pandigamage Saleela Kaushal
 - 22UG3-0108 - Ruchira Vishvajith Dharma Shri
@@ -119,13 +107,8 @@ The optimized build will be in the `dist/` folder.
 The Interactor/
 ├── src/
 │   ├── components/
-<<<<<<< HEAD
-│   │   ├── Comment.css
-│   │   ├── Comment.jsx
-=======
 │   │   ├── Comment.jsx
 │   │   ├── Comment.css
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 │   │   ├── PostCreator.jsx      # Task 1: Post creation form
 │   │   ├── PostCreator.css
 │   │   ├── SocialPost.jsx       # Task 2: Reusable post component
@@ -164,11 +147,7 @@ The Interactor/
 
 ### API Integration
 
-<<<<<<< HEAD
-- **API**: JSONPlaceholder (https://jsonplaceholder.typicode.com/posts)
-=======
 - **API**: JSONPlaceholder (https://dummyjson.com/posts)
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 - **Method**: fetch API
 - **Data**: First 10 posts transformed to match component structure
 
@@ -177,11 +156,7 @@ The Interactor/
 1. App component maintains posts array in state
 2. PostCreator submits new post data to App
 3. App adds new post to beginning of array
-<<<<<<< HEAD
-4. Posts are rendered using map() over SocialPost components
-=======
 4. Posts are rendered using ```map()``` over SocialPost components
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 5. Like interactions update specific post in state array
 
 ---
@@ -241,13 +216,8 @@ The Interactor/
 ## 👨‍💻 Development
 
 Built with modern web technologies:
-<<<<<<< HEAD
-- **React 18.2** - Component library
-- **Vite 5.0** - Build tool and dev server
-=======
 - **React 19.2** - Component library
 - **Vite 7.1** - Build tool and dev server
->>>>>>> 1ae2137eee190e40f135f32b4f7577d2fb807248
 - **CSS3** - Styling with animations
 - **JSONPlaceholder** - Mock API for testing
 
