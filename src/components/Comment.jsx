@@ -4,6 +4,7 @@ import './Comment.css'
  * Comment Component
  * Displays individual comments with user info and content
  */
+
 function Comment({ comment }) {
   // Format timestamp to readable format
   const formatTimestamp = (timestamp) => {
@@ -77,4 +78,3 @@ function Comment({ comment }) {
 }
 
 export default Comment
-
