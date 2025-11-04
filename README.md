@@ -102,6 +102,12 @@ The optimized build will be in the `dist/` folder.
 
 ---
 
+## 🖥️ User Interface
+
+[UI](interactor-ui.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
