@@ -12,6 +12,7 @@ A functional social media post builder and feed prototype built with React, demo
 ---
 
 ## 👥 Team Members
+
 - 22UG3-0235 - Mihir Chakma (**Group Leader**)
 - 22UG3-0570 - Thavalampitiye Dhammika
 - 22UG3-0912 - Pandigamage Saleela Kaushal
@@ -147,7 +148,7 @@ The Interactor/
 
 ### API Integration
 
-- **API**: JSONPlaceholder (https://dummyjson.com/posts)
+- **API**: DummyJSON REST API for Placeholder JSON Data (https://dummyjson.com/posts)
 - **Method**: fetch API
 - **Data**: First 10 posts transformed to match component structure
 
@@ -227,3 +228,4 @@ Built with modern web technologies:
 *Demonstrating practical application of social media development principles*
 
 ---
+
