@@ -230,8 +230,13 @@ Built with modern web technologies:
 
 ---
 
+## 🖼️ Presentation Slides
+
+- The Project: [Slides](https://www.canva.com/design/DAG3tfzrVdQ/_cQ3_aKYOsnJ0NW06y7GCQ/edit)
+
+---
+
 **Built for CIT305: Social Media Applications**  
 *Demonstrating practical application of social media development principles*
 
 ---
-
